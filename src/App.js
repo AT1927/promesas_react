@@ -1,3 +1,5 @@
+//Actividad Promesas React
+//Autores: Edgar Andres Torres - Santiago Andres Chamorro
 import  { useState, useEffect, useCallback } from 'react';
 import Person from './Person';
 import SearchForm from './SearchForm';
